@@ -1,6 +1,12 @@
-# tugaspr
+# Tugas Praktikum PBM
 
-A new Flutter project.
+#curhat
+
+Kendala : Menyimpan data user
+
+Jadi dalam sistem ini jika login harus menggunakan data yang sudah disetting pada variabel.
+
+Data yang di setting => username : Cece, password : 19042003
 
 ## Getting Started
 
